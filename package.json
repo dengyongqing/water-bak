@@ -1,5 +1,5 @@
 {
-  "name": "emchart",
+  "name": "water",
   "version": "1.0.0",
   "description": "1.0.0",
   "main": "webpack.config.js",
@@ -21,9 +21,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "东财",
+    "行情",
+    "金融",
     "图表"
   ],
-  "author": "移动站点开发组",
+  "author": "dengyongqing@aliyun.com",
   "license": "ISC"
 }
